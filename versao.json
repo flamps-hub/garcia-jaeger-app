@@ -1,6 +1,6 @@
 {
-"versao": "1.3.8",
-"url": "https://github.com/flamps-hub/garcia-jaeger-app/releases/download/v1.3.8/GarciaJaeger-Setup.exe",
-"notas": "Nova aba de Direito Médico e correções na Proposta PJ.",
-"sha256": "70119777d3a6628c54236a82788a15459d2f6a3fdce60441a19eb329d9738ddf"
+"versao": "1.4.0",
+"url": "https://github.com/flamps-hub/garcia-jaeger-app/releases/download/v1.4.0/GarciaJaeger-Setup.exe",
+"notas": "Procuração com opções de advogados, excluir usuário funcionandon e regras tributárias atualizadas.",
+"sha256": "d9bf9805a254a4f285b6be5138f5428fecaa994beec4678382cae1e0d4f36f97"
 }

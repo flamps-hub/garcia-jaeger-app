@@ -1,6 +1,6 @@
 {
-"versao": "1.4.0",
-"url": "https://github.com/flamps-hub/garcia-jaeger-app/releases/download/v1.4.0/GarciaJaeger-Setup.exe",
-"notas": "Procuração com opções de advogados, excluir usuário funcionandon e regras tributárias atualizadas.",
-"sha256": "d9bf9805a254a4f285b6be5138f5428fecaa994beec4678382cae1e0d4f36f97"
+"versao": "1.4.1",
+"url": "https://github.com/flamps-hub/garcia-jaeger-app/releases/download/v1.4.1/GarciaJaeger-Setup.exe",
+"notas": "Regras tributárias atualizadas - PIS e COFINS e despesas detutíveis LALUR.",
+"sha256": "ced0acbd4c2ffeb9f4cb40be2f90b7a5ecb5351f39509d48c9d6f27ab7882d2c"
 }

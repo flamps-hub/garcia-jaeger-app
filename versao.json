@@ -1,6 +1,6 @@
 {
-"versao": "1.8.4",
-"url": "https://github.com/flamps-hub/garcia-jaeger-app/releases/download/v1.8.4/GarciaJaeger-Setup.exe",
+"versao": "1.8.5",
+"url": "https://github.com/flamps-hub/garcia-jaeger-app/releases/download/v1.8.5/GarciaJaeger-Setup.exe",
 "notas": "Menu Calculadoras criado e subtarefas e mensagens adicionado às atividades, mensagem agora é aberta e a conversa continua em seu interior. Correção aplicativo só abre uma vez em cada máquina.",
-"sha256": "0447b575ca789a68b2f6f76775e85014fbf04de0755ad725f718c924671ca698"
+"sha256": "309f16be74f4fdb49e35d767af502588b45015adb1f6b37c57f0323b11484c64"
 }

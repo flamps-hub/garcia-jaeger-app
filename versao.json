@@ -1,6 +1,6 @@
 {
-"versao": "1.9.5",
-"url": "https://github.com/flamps-hub/garcia-jaeger-app/releases/download/v1.9.5/GarciaJaeger-Setup.exe",
-"notas": "Adicionada calculadora de atualização de cálculos para processos judiciais.",
-"sha256": "942f730bd6374d202286f9cb4106004e1519ba34147b7dde3c982c33c1c164a4"
+"versao": "1.9.6",
+"url": "https://github.com/flamps-hub/garcia-jaeger-app/releases/download/v1.9.6/GarciaJaeger-Setup.exe",
+"notas": "Modulo web de leitura em www.garciajaeger.com.br/app",
+"sha256": "bfdb85cb388935ec295f3289c85c61e4f92516e6381c7f72bf220d96e0806b47"
 }

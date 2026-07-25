@@ -1,6 +1,6 @@
 {
-"versao": "1.9.8",
-"url": "https://github.com/flamps-hub/garcia-jaeger-app/releases/download/v1.9.8/GarciaJaeger-Setup.exe",
+"versao": "1.9.9",
+"url": "https://github.com/flamps-hub/garcia-jaeger-app/releases/download/v1.9.9/GarciaJaeger-Setup.exe",
 "notas": "Modulo web de leitura em www.garciajaeger.com.br/app",
-"sha256": "f17714d9ece2f585503e04b118919c62a7290ca6e278a3b4b91dfb7e21266473"
+"sha256": "e7d997b93e19b9ff0fec3aba3832dddf2de842ce3d9572cb8b00f939405209be"
 }

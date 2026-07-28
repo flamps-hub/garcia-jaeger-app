@@ -1,6 +1,6 @@
 {
-"versao": "1.9.9",
-"url": "https://github.com/flamps-hub/garcia-jaeger-app/releases/download/v1.9.9/GarciaJaeger-Setup.exe",
-"notas": "Modulo web de leitura em www.garciajaeger.com.br/app",
-"sha256": "e7d997b93e19b9ff0fec3aba3832dddf2de842ce3d9572cb8b00f939405209be"
+"versao": "2.1.0",
+"url": "https://github.com/flamps-hub/garcia-jaeger-app/releases/download/v2.1.0/GarciaJaeger-Setup.exe",
+"notas": "Calendário (atividades atualizado) e ícone no desktop",
+"sha256": "383d5d5988babb6fe5c614c5c833f18c2825de322054255f658b675e451cc94a"
 }

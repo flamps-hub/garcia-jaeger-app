@@ -1,6 +1,6 @@
 {
-"versao": "2.8.1",
-"url": "https://github.com/flamps-hub/garcia-jaeger-app/releases/download/v2.8.1/GarciaJaeger-Setup.exe",
-"notas": "Calendário (atividades atualizado) e ícone no desktop",
-"sha256": "9703d6055c2f9c704298ce286407b9312b54119dde0728bd4a521ebc388dbc5f"
+"versao": "2.9.0",
+"url": "https://github.com/flamps-hub/garcia-jaeger-app/releases/download/v2.9.0/GarciaJaeger-Setup.exe",
+"notas": "Correção quitação recorrentes + geração extratos + restrição extratos contas a receber e a pagar para socios e adm",
+"sha256": "f6e4ee2e018e26aac1b8945b6bf3bcb07cc3f224ccfb86b1d14ed58f89ea1e6b"
 }

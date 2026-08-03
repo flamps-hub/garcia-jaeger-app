@@ -1,6 +1,6 @@
 {
-"versao": "2.9.1",
-"url": "https://github.com/flamps-hub/garcia-jaeger-app/releases/download/v2.9.1/GarciaJaeger-Setup.exe",
-"notas": "Correção quitação recorrentes + geração extratos + restrição extratos contas a receber e a pagar para socios e adm",
-"sha256": "227b119f39bb65aeccc11d254ce5d8ff2817190b01ea2f02969dba7878d4aed8"
+"versao": "2.9.4",
+"url": "https://github.com/flamps-hub/garcia-jaeger-app/releases/download/v2.9.4/GarciaJaeger-Setup.exe",
+"notas": "Correção",
+"sha256": "803ee1fe7777d9a89a30cd75911030a6e59f004cb33a674a519c3293e1d3cba1"
 }

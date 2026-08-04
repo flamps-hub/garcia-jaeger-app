@@ -1,6 +1,6 @@
 {
-"versao": "3.0.0",
-"url": "https://github.com/flamps-hub/garcia-jaeger-app/releases/download/v3.0.0/GarciaJaeger-Setup.exe",
-"notas": "Correção",
-"sha256": "303be4430bd8e04a5d240c4f7f7a60f4b9763ab0b92258763dd6871ee3b0a617"
+"versao": "3.3.2",
+"url": "https://github.com/flamps-hub/garcia-jaeger-app/releases/download/v3.3.2/GarciaJaeger-Setup.exe",
+"notas": "Front End alterado, seletor de temas escuro/claro, anexos no calendário para despesas recorrentes, correçãao descrição sem contraste.",
+"sha256": "86f237e92a8b10b9c6e7ee2c7dad0391f0702bcc603f3ce445a30ca190333550"
 }

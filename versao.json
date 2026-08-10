@@ -1,6 +1,6 @@
 {
-"versao": "3.9.2",
-"url": "https://github.com/flamps-hub/garcia-jaeger-app/releases/download/v3.9.2/GarciaJaeger-Setup.exe",
-"notas": "Aba atividades atualizada, aba clientes atualizada, possibilidade de exportar clientes; integração ao site; aba atendimentos.",
-"sha256": "7afe4a34ed380b6fd4c10b8f52c87597b4d9421f3abce4c0401a380339f95a71"
+"versao": "4.6.5",
+"url": "https://github.com/flamps-hub/garcia-jaeger-app/releases/download/v4.6.5/GarciaJaeger-Setup.exe",
+"notas": "Intimações e Parceiro inserido nas apresentações com foto.",
+"sha256": "e23cbeb01b11fff6051a9a157e752615da56758251b2a8ef6d07e50ec4c94f86"
 }

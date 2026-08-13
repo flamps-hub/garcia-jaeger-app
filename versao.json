@@ -1,6 +1,6 @@
 {
-"versao": "5.4.0",
+"versao": "5.5.1",
 "url": "https://github.com/flamps-hub/garcia-jaeger-app/releases/download/v5.4.0/GarciaJaeger-Setup.exe",
-"notas": "Proposta vinculada ao Trabalho",
-"sha256": "c72423c9d1b23d908f1ad25d681cdcefb6c7ba71473586c158d73e661ba69bf5"
+"notas": "Correção de bugs",
+"sha256": "15e247a0e4dc2cf7b122d71ece67bd86e2ceda8d125a7067faf3f5bb1a4c384a"
 }

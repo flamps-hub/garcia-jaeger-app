@@ -1,6 +1,6 @@
 {
-"versao": "5.6.4",
-"url": "https://github.com/flamps-hub/garcia-jaeger-app/releases/download/v5.6.4/GarciaJaeger-Setup.exe",
+"versao": "5.6.5",
+"url": "https://github.com/flamps-hub/garcia-jaeger-app/releases/download/v5.6.5/GarciaJaeger-Setup.exe",
 "notas": "Acompanhamento agora vincula processos e mostra movimentações e intimações na própria aba.",
-"sha256": "1918ab4e0354a3e8505cd63a0767f1160c7e5a39d01eae9cfb50047189a84a26"
+"sha256": "a8506bd4459d66dec2e55d860e278d09d53bad45f16ca242e2c0c9d4e16c97df"
 }
